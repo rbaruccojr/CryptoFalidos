@@ -1,5 +1,21 @@
 
 
+## 0.0.2
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.2 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump codecov/codecov-action from 4.0.1 to 4.3.0 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/18
+* Bump @salesforce/sfdx-lwc-jest from 4.0.1 to 5.0.0 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/17
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.1...0.0.2
+
+
 ## 0.0.1
 
 Minor release with many small,
