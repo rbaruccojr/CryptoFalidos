@@ -1,5 +1,20 @@
 
 
+## 0.0.4
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.4 -->
+
+## What's Changed
+### 🏕 Features
+* [Snyk] Security upgrade eslint from 8.57.0 to 9.0.0 by @rbaruccojr in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/19
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.3...0.0.4
+
+
 ## 0.0.3
 
 Minor release with many small,
