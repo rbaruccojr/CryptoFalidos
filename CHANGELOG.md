@@ -1,5 +1,20 @@
 
 
+## 0.0.6
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.6 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump prettier-plugin-apex from 2.1.2 to 2.1.3 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/22
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.5...0.0.6
+
+
 ## 0.0.5
 
 Minor release with many small,
