@@ -1,5 +1,21 @@
 
 
+## 0.0.9
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.9 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump eslint from 9.1.1 to 9.2.0 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/25
+* Bump prettier-plugin-apex from 2.1.3 to 2.1.4 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/24
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.7...0.0.9
+
+
 ## 0.0.8
 
 Minor release with many small,
