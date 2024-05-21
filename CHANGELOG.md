@@ -1,5 +1,21 @@
 
 
+## 0.0.12
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.12 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump codecov/codecov-action from 4.4.0 to 4.4.1 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/28
+* Bump eslint from 9.2.0 to 9.3.0 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/27
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.10...0.0.12
+
+
 ## 0.0.10
 
 Minor release with many small,
