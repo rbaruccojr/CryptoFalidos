@@ -1,5 +1,20 @@
 
 
+## 0.0.13
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.13 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump lint-staged from 15.2.2 to 15.2.5 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/30
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.11...0.0.13
+
+
 ## 0.0.11
 
 Minor release with many small,
