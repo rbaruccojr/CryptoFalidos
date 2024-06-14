@@ -1,5 +1,21 @@
 
 
+## 0.0.17
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.17 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump eslint from 9.3.0 to 9.4.0 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/32
+* Bump prettier from 3.2.5 to 3.3.2 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/34
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.14...0.0.17
+
+
 ## 0.0.16
 
 Minor release with many small,
