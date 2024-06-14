@@ -1,5 +1,21 @@
 
 
+## 0.0.15
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.15 -->
+
+## What's Changed
+### 👒 Dependencies
+* Bump lint-staged from 15.2.5 to 15.2.7 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/37
+* Bump codecov/codecov-action from 4.4.1 to 4.5.0 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/36
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.13...0.0.15
+
+
 ## 0.0.14
 
 Minor release with many small,
