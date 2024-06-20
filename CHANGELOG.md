@@ -1,5 +1,20 @@
 
 
+## 0.0.19
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.19 -->
+
+## What's Changed
+### 👒 Dependencies
+* Build(deps): bump ws from 8.16.0 to 8.17.1 in the npm_and_yarn group by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/39
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.18...0.0.19
+
+
 ## 0.0.18
 
 Minor release with many small,
