@@ -1,5 +1,21 @@
 
 
+## 0.0.23
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.23 -->
+
+## What's Changed
+### 👒 Dependencies
+* Build(deps-dev): bump @salesforce/eslint-config-lwc from 3.5.3 to 3.6.0 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/42
+* Build(deps-dev): bump eslint from 9.5.0 to 9.7.0 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/44
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.21...0.0.23
+
+
 ## 0.0.22
 
 Minor release with many small,
