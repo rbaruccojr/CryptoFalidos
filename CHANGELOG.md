@@ -1,5 +1,21 @@
 
 
+## 0.0.20
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.20 -->
+
+## What's Changed
+### 👒 Dependencies
+* Build(deps-dev): bump @salesforce/sfdx-lwc-jest from 5.0.0 to 5.1.0 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/41
+* Build(deps-dev): bump prettier from 3.3.2 to 3.3.3 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/43
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.19...0.0.20
+
+
 ## 0.0.19
 
 Minor release with many small,
