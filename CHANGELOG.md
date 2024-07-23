@@ -1,5 +1,20 @@
 
 
+## 0.0.24
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.24 -->
+
+## What's Changed
+### 👒 Dependencies
+* Build(deps-dev): bump husky from 9.0.11 to 9.1.1 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/45
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.22...0.0.24
+
+
 ## 0.0.23
 
 Minor release with many small,
