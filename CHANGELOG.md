@@ -1,5 +1,22 @@
 
 
+## 0.0.25
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.25 -->
+
+## What's Changed
+### 🏕 Features
+* [Snyk] Upgrade @salesforce/sfdx-lwc-jest from 5.1.0 to 6.0.0 by @rbaruccojr in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/55
+### 👒 Dependencies
+* Build(deps-dev): bump lint-staged from 15.2.7 to 15.2.10 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/56
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.24...0.0.25
+
+
 ## 0.0.26
 
 Minor release with many small,
