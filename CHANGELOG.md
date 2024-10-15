@@ -1,5 +1,20 @@
 
 
+## 0.0.29
+
+Minor release with many small,
+but great improvements 👏..
+
+<!-- Release notes generated using configuration in .github/release.yml at 0.0.29 -->
+
+## What's Changed
+### 👒 Dependencies
+* Build(deps-dev): bump eslint from 9.7.0 to 9.12.0 by @dependabot in https://github.com/Fatal1tyBarucco/CryptoFalidos/pull/63
+
+
+**Full Changelog**: https://github.com/Fatal1tyBarucco/CryptoFalidos/compare/0.0.27...0.0.29
+
+
 ## 0.0.27
 
 Minor release with many small,
